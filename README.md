@@ -1,0 +1,7 @@
+- `Initial Configuration Files` folder contains the Initial configuration files of BR, R1, R2, and R3.
+- `Lab 1 Configuration Files` folder contains the configuration files of BR, R1, R2, and R3 after the completion of Lab 1.
+- `Lab 2 Configuration Files` folder contains the configuration files of BR, R1, R2, and R3 after the completion of Lab 2. It also contains the `Static_Routes` file which has summary tables of the static routes that should be configured on each router.
+- `Lab 3` folder contains the modified sample dhcp.conf file and the screen captures of the workstations obtaining the corrct IP addresses via DHCP.
+- `Lab 1 Description` Configuring IP addresses
+- `Lab 2 Description` Static routes
+- `Lab 3 Description` DHCP
